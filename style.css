@@ -155,6 +155,16 @@ footer {
     color: red;
 	text-decoration: none;
 }
+@media (max-height:400px){
+	.container{
+		margin-top: 15%;
+	}
+}
+@media (max-height:400px){
+	footer{
+		margin-top: 2%;
+	}
+}
 footer a{
 	text-decoration: none;
 	color: red;
